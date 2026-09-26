@@ -184,7 +184,3 @@ Alternatively: `./start_frontend.sh`
 Do not commit API keys. Export `GROQ_API_KEY` locally or use a `.env` file that remains gitignored.
 
 ---
-
-<p align="center">
-  <sub>Engineering PFE — radio quality analysis with generative AI · Tunisie Telecom</sub>
-</p>
