@@ -30,7 +30,7 @@
 
 **Telecom AI Agent** is an end-to-end application that turns raw Drive Test campaigns into operator-ready insight. Engineers upload LTE or UMTS logs, ask questions in natural language, and receive KPI classifications, charts, and optimization recommendations grounded in the measurements.
 
-The project was developed as an engineering PFE in the context of **Tunisie Telecom** radio quality analysis.
+The project was developed as an engineering project in the context of **Tunisie Telecom** radio quality analysis.
 
 **Repository:** [https://github.com/hadil51/Telecom-AI-Agent.git](https://github.com/hadil51/Telecom-AI-Agent.git)
 
